@@ -6,6 +6,7 @@ Automatically generating text descriptions for images using computer vision and 
 Download COCOAPI tools and paste it in a folder named opt inside the project folder https://github.com/cocodataset/cocoapi .
 
 Training Images : http://images.cocodataset.org/zips/train2017.zip
+
 Training Annotations : http://images.cocodataset.org/annotations/annotations_trainval2017.zip
 
 Test Images : http://images.cocodataset.org/zips/test2017.zip
